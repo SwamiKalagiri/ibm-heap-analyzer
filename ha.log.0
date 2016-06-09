@@ -1,0 +1,460 @@
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:18:15 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:18:15 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 10:18:15 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 10:19:18 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:19:18 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\heapdump.20160601.121328.1362.0004.phd\heapdump.20160601.121328.1362.0004.phd(File Size:416,905,536 bytes) started
+Jun 09, 2016 10:19:29 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:19:29 CDT 2016] Requesting 261,642,728 bytes of Java heap.
+Jun 09, 2016 10:19:29 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:19:29 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:19:29 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:19:29 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:19:29 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:19:29 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:20:20 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:20:20 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:20:21 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:20:21 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:23:43 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:23:43 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 10:23:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 10:23:55 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:23:55 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\heapdump.20160601.121328.1362.0004.phd\heapdump.20160601.121328.1362.0004.phd(File Size:416,905,536 bytes) started
+Jun 09, 2016 10:24:06 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:24:06 CDT 2016] Requesting 261,642,728 bytes of Java heap.
+Jun 09, 2016 10:24:06 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:24:06 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:24:06 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:24:06 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:24:06 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:24:06 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:24:59 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:24:59 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:25:03 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:25:03 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:33:34 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:33:34 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 10:33:34 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 10:33:43 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:33:43 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\heapdump.20160601.121328.1362.0004.phd\heapdump.20160601.121328.1362.0004.phd(File Size:416,905,536 bytes) started
+Jun 09, 2016 10:33:54 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:33:54 CDT 2016] Requesting 261,642,728 bytes of Java heap.
+Jun 09, 2016 10:33:54 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:33:54 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:33:54 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:33:54 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:33:54 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:33:54 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:34:39 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:34:39 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:34:40 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:34:40 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:34:50 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:34:50 CDT 2016] Requesting 192,756 bytes of Java heap.
+Jun 09, 2016 10:34:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:34:52 CDT 2016] Heap Analysis of heapdump.20160601.121328.1362.0004.phd completed in 00:01:09
+Jun 09, 2016 10:34:56 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:34:56 CDT 2016] IBM Heap Analyzer index file: C:\Users\sk33561\Desktop\heapdump.20160601.121328.1362.0004.phd\heapdump.20160601.121328.1362.0004.phd.hax completed in 00:00:03
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:45:52 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:45:52 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 10:45:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 10:46:44 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 10:46:44 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:46:44 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:46:45 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:46:45 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 10:46:45 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 10:46:45 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 10:46:45 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 10:46:45 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 10:46:45 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 10:46:55 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:46:55 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\heapdump.20160601.121328.1362.0004.phd\heapdump.20160601.121328.1362.0004.phd.hax(File Size:668,012,414 bytes) started
+Jun 09, 2016 10:47:08 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:47:08 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\heapdump.20160601.121328.1362.0004.phd\heapdump.20160601.121328.1362.0004.phd.hax completed in 00:00:13
+Jun 09, 2016 10:47:29 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:47:29 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\heapdump.20160601.121328.1362.0004.phd\heapdump.20160601.121328.1362.0004.phd(File Size:416,905,536 bytes) started
+Jun 09, 2016 10:47:49 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:47:49 CDT 2016] Requesting 261,642,728 bytes of Java heap.
+Jun 09, 2016 10:47:49 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:47:49 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:47:49 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:47:49 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 10:47:49 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 10:47:49 CDT 2016] Requesting 130,821,364 bytes of Java heap.
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:02 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:02 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 11:09:02 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 11:09:13 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:13 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160609.042012.11585.0012.phd\heapdump.20160609.042012.11585.0012.phd(File Size:149,611,059 bytes) started
+Jun 09, 2016 11:09:17 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:17 CDT 2016] Requesting 90,922,888 bytes of Java heap.
+Jun 09, 2016 11:09:17 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:17 CDT 2016] Requesting 45,461,444 bytes of Java heap.
+Jun 09, 2016 11:09:17 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:17 CDT 2016] Requesting 45,461,444 bytes of Java heap.
+Jun 09, 2016 11:09:17 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:17 CDT 2016] Requesting 45,461,444 bytes of Java heap.
+Jun 09, 2016 11:09:31 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:31 CDT 2016] Requesting 45,461,444 bytes of Java heap.
+Jun 09, 2016 11:09:32 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:32 CDT 2016] Requesting 45,461,444 bytes of Java heap.
+Jun 09, 2016 11:09:37 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:37 CDT 2016] Requesting 203,684 bytes of Java heap.
+Jun 09, 2016 11:09:37 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:37 CDT 2016] Heap Analysis of heapdump.20160609.042012.11585.0012.phd completed in 00:00:24
+Jun 09, 2016 11:09:39 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:09:39 CDT 2016] IBM Heap Analyzer index file: C:\Users\sk33561\Desktop\Dumps\heapdump.20160609.042012.11585.0012.phd\heapdump.20160609.042012.11585.0012.phd.hax completed in 00:00:01
+Jun 09, 2016 11:28:08 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:28:08 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160607.060314.31399.0002.phd\heapdump.20160607.060314.31399.0002.phd(File Size:419,199,036 bytes) started
+Jun 09, 2016 11:28:19 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:28:19 CDT 2016] Requesting 262,018,296 bytes of Java heap.
+Jun 09, 2016 11:28:19 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:28:19 CDT 2016] Requesting 131,009,148 bytes of Java heap.
+Jun 09, 2016 11:28:19 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:28:19 CDT 2016] Requesting 131,009,148 bytes of Java heap.
+Jun 09, 2016 11:28:19 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:28:19 CDT 2016] Requesting 131,009,148 bytes of Java heap.
+Jun 09, 2016 11:29:09 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:29:09 CDT 2016] Requesting 131,009,148 bytes of Java heap.
+Jun 09, 2016 11:29:12 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:29:12 CDT 2016] Requesting 131,009,148 bytes of Java heap.
+Jun 09, 2016 11:29:28 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:29:28 CDT 2016] Requesting 194,772 bytes of Java heap.
+Jun 09, 2016 11:29:28 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:29:28 CDT 2016] Heap Analysis of heapdump.20160607.060314.31399.0002.phd completed in 00:01:20
+Jun 09, 2016 11:29:52 AM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 11:29:52 CDT 2016] IBM Heap Analyzer index file: C:\Users\sk33561\Desktop\Dumps\heapdump.20160607.060314.31399.0002.phd\heapdump.20160607.060314.31399.0002.phd.hax completed in 00:00:23
+Jun 09, 2016 2:18:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:24 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160606.090249.32508.0001.phd\heapdump.20160606.090249.32508.0001.phd(File Size:79,358,186 bytes) started
+Jun 09, 2016 2:18:26 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:26 CDT 2016] Requesting 45,746,864 bytes of Java heap.
+Jun 09, 2016 2:18:26 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:26 CDT 2016] Requesting 22,873,432 bytes of Java heap.
+Jun 09, 2016 2:18:26 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:26 CDT 2016] Requesting 22,873,432 bytes of Java heap.
+Jun 09, 2016 2:18:26 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:26 CDT 2016] Requesting 22,873,432 bytes of Java heap.
+Jun 09, 2016 2:18:38 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:38 CDT 2016] Requesting 22,873,432 bytes of Java heap.
+Jun 09, 2016 2:18:38 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:38 CDT 2016] Requesting 22,873,432 bytes of Java heap.
+Jun 09, 2016 2:18:40 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:40 CDT 2016] Requesting 244,544 bytes of Java heap.
+Jun 09, 2016 2:18:40 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:40 CDT 2016] Heap Analysis of heapdump.20160606.090249.32508.0001.phd completed in 00:00:16
+Jun 09, 2016 2:18:50 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:18:50 CDT 2016] IBM Heap Analyzer index file: C:\Users\sk33561\Desktop\Dumps\heapdump.20160606.090249.32508.0001.phd\heapdump.20160606.090249.32508.0001.phd.hax completed in 00:00:06
+Jun 09, 2016 2:54:22 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:54:22 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160609.042012.11585.0012.phd\heapdump.20160609.042012.11585.0012.phd.hax(File Size:236,851,132 bytes) started
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:54:56 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:54:56 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 2:54:56 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 2:55:07 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:55:07 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160609.042012.11585.0012.phd\heapdump.20160609.042012.11585.0012.phd.hax(File Size:236,851,132 bytes) started
+Jun 09, 2016 2:55:12 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:55:12 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160609.042012.11585.0012.phd\heapdump.20160609.042012.11585.0012.phd.hax completed in 00:00:05
+Jun 09, 2016 2:55:47 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:55:47 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160607.060314.31399.0002.phd\heapdump.20160607.060314.31399.0002.phd.hax(File Size:674,376,971 bytes) started
+Jun 09, 2016 2:56:11 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 14:56:11 CDT 2016] Heap Analysis of C:\Users\sk33561\Desktop\Dumps\heapdump.20160607.060314.31399.0002.phd\heapdump.20160607.060314.31399.0002.phd.hax completed in 00:00:24
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:09 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:09 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 3:47:09 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 3:47:33 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:33 CDT 2016] Heap Analysis of C:\www\jdnxgen\heapdump.20160609.154628.8852.0001.phd(File Size:69,098,097 bytes) started
+Jun 09, 2016 3:47:34 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:34 CDT 2016] Requesting 39,730,216 bytes of Java heap.
+Jun 09, 2016 3:47:34 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:34 CDT 2016] Requesting 19,865,108 bytes of Java heap.
+Jun 09, 2016 3:47:34 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:34 CDT 2016] Requesting 19,865,108 bytes of Java heap.
+Jun 09, 2016 3:47:34 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:34 CDT 2016] Requesting 19,865,108 bytes of Java heap.
+Jun 09, 2016 3:47:41 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:41 CDT 2016] Requesting 19,865,108 bytes of Java heap.
+Jun 09, 2016 3:47:41 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:41 CDT 2016] Requesting 19,865,108 bytes of Java heap.
+Jun 09, 2016 3:47:44 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:44 CDT 2016] Requesting 140,924 bytes of Java heap.
+Jun 09, 2016 3:47:44 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:44 CDT 2016] Heap Analysis of heapdump.20160609.154628.8852.0001.phd completed in 00:00:11
+Jun 09, 2016 3:47:46 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:47:46 CDT 2016] IBM Heap Analyzer index file: C:\www\jdnxgen\heapdump.20160609.154628.8852.0001.phd.hax completed in 00:00:00
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:48:54 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:48:54 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 3:48:54 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 3:49:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:13 CDT 2016] Heap Analysis of C:\www\jdnxgen\heapdump.20160609.154832.8852.0002.phd(File Size:69,098,305 bytes) started
+Jun 09, 2016 3:49:15 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:15 CDT 2016] Requesting 39,730,272 bytes of Java heap.
+Jun 09, 2016 3:49:15 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:15 CDT 2016] Requesting 19,865,136 bytes of Java heap.
+Jun 09, 2016 3:49:15 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:15 CDT 2016] Requesting 19,865,136 bytes of Java heap.
+Jun 09, 2016 3:49:15 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:15 CDT 2016] Requesting 19,865,136 bytes of Java heap.
+Jun 09, 2016 3:49:22 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:22 CDT 2016] Requesting 19,865,136 bytes of Java heap.
+Jun 09, 2016 3:49:22 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:22 CDT 2016] Requesting 19,865,136 bytes of Java heap.
+Jun 09, 2016 3:49:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:24 CDT 2016] Requesting 140,932 bytes of Java heap.
+Jun 09, 2016 3:49:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:24 CDT 2016] Heap Analysis of heapdump.20160609.154832.8852.0002.phd completed in 00:00:11
+Jun 09, 2016 3:49:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:49:25 CDT 2016] IBM Heap Analyzer index file: C:\www\jdnxgen\heapdump.20160609.154832.8852.0002.phd.hax completed in 00:00:00
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:27 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:27 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 3:59:27 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 3:59:35 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:35 CDT 2016] Heap Analysis of C:\www\jdnxgen\heapdump.20160609.155910.8852.0003.phd(File Size:68,967,635 bytes) started
+Jun 09, 2016 3:59:37 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:37 CDT 2016] Requesting 39,629,600 bytes of Java heap.
+Jun 09, 2016 3:59:37 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:37 CDT 2016] Requesting 19,814,800 bytes of Java heap.
+Jun 09, 2016 3:59:37 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:37 CDT 2016] Requesting 19,814,800 bytes of Java heap.
+Jun 09, 2016 3:59:37 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:37 CDT 2016] Requesting 19,814,800 bytes of Java heap.
+Jun 09, 2016 3:59:43 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:43 CDT 2016] Requesting 19,814,800 bytes of Java heap.
+Jun 09, 2016 3:59:43 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:43 CDT 2016] Requesting 19,814,800 bytes of Java heap.
+Jun 09, 2016 3:59:46 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:46 CDT 2016] Requesting 141,920 bytes of Java heap.
+Jun 09, 2016 3:59:46 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:46 CDT 2016] Heap Analysis of heapdump.20160609.155910.8852.0003.phd completed in 00:00:11
+Jun 09, 2016 3:59:47 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 15:59:47 CDT 2016] IBM Heap Analyzer index file: C:\www\jdnxgen\heapdump.20160609.155910.8852.0003.phd.hax completed in 00:00:00
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:13 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:13 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 4:09:13 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 4:09:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:21 CDT 2016] Heap Analysis of C:\www\jdnxgen\heapdump.20160609.160808.8852.0004.phd(File Size:75,826,648 bytes) started
+Jun 09, 2016 4:09:23 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:23 CDT 2016] Requesting 43,884,344 bytes of Java heap.
+Jun 09, 2016 4:09:23 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:23 CDT 2016] Requesting 21,942,172 bytes of Java heap.
+Jun 09, 2016 4:09:23 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:23 CDT 2016] Requesting 21,942,172 bytes of Java heap.
+Jun 09, 2016 4:09:23 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:23 CDT 2016] Requesting 21,942,172 bytes of Java heap.
+Jun 09, 2016 4:09:30 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:30 CDT 2016] Requesting 21,942,172 bytes of Java heap.
+Jun 09, 2016 4:09:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:31 CDT 2016] Requesting 21,942,172 bytes of Java heap.
+Jun 09, 2016 4:09:33 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:33 CDT 2016] Requesting 167,008 bytes of Java heap.
+Jun 09, 2016 4:09:33 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:33 CDT 2016] Heap Analysis of heapdump.20160609.160808.8852.0004.phd completed in 00:00:12
+Jun 09, 2016 4:09:34 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:09:34 CDT 2016] IBM Heap Analyzer index file: C:\www\jdnxgen\heapdump.20160609.160808.8852.0004.phd.hax completed in 00:00:00
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:24 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:24 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 4:12:24 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 4:12:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:29 CDT 2016] Heap Analysis of C:\www\jdnxgen\heapdump.20160609.161211.8852.0005.phd(File Size:77,135,017 bytes) started
+Jun 09, 2016 4:12:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:31 CDT 2016] Requesting 44,719,472 bytes of Java heap.
+Jun 09, 2016 4:12:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:31 CDT 2016] Requesting 22,359,736 bytes of Java heap.
+Jun 09, 2016 4:12:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:31 CDT 2016] Requesting 22,359,736 bytes of Java heap.
+Jun 09, 2016 4:12:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:31 CDT 2016] Requesting 22,359,736 bytes of Java heap.
+Jun 09, 2016 4:12:39 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:39 CDT 2016] Requesting 22,359,736 bytes of Java heap.
+Jun 09, 2016 4:12:39 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:39 CDT 2016] Requesting 22,359,736 bytes of Java heap.
+Jun 09, 2016 4:12:41 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:41 CDT 2016] Requesting 171,592 bytes of Java heap.
+Jun 09, 2016 4:12:42 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:42 CDT 2016] Heap Analysis of heapdump.20160609.161211.8852.0005.phd completed in 00:00:12
+Jun 09, 2016 4:12:43 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:12:43 CDT 2016] IBM Heap Analyzer index file: C:\www\jdnxgen\heapdump.20160609.161211.8852.0005.phd.hax completed in 00:00:00
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:21 CDT 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:21 CDT 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Jun 09, 2016 4:18:21 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Jun 09, 2016 4:18:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:29 CDT 2016] Heap Analysis of C:\www\jdnxgen\heapdump.20160609.161804.8852.0006.phd(File Size:79,671,537 bytes) started
+Jun 09, 2016 4:18:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:31 CDT 2016] Requesting 46,266,544 bytes of Java heap.
+Jun 09, 2016 4:18:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:31 CDT 2016] Requesting 23,133,272 bytes of Java heap.
+Jun 09, 2016 4:18:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:31 CDT 2016] Requesting 23,133,272 bytes of Java heap.
+Jun 09, 2016 4:18:31 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:31 CDT 2016] Requesting 23,133,272 bytes of Java heap.
+Jun 09, 2016 4:18:38 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:38 CDT 2016] Requesting 23,133,272 bytes of Java heap.
+Jun 09, 2016 4:18:38 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:38 CDT 2016] Requesting 23,133,272 bytes of Java heap.
+Jun 09, 2016 4:18:41 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:41 CDT 2016] Requesting 172,536 bytes of Java heap.
+Jun 09, 2016 4:18:42 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:42 CDT 2016] Heap Analysis of heapdump.20160609.161804.8852.0006.phd completed in 00:00:13
+Jun 09, 2016 4:18:43 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Thu Jun 09 16:18:43 CDT 2016] IBM Heap Analyzer index file: C:\www\jdnxgen\heapdump.20160609.161804.8852.0006.phd.hax completed in 00:00:00
